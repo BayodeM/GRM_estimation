@@ -1,0 +1,14 @@
+The map file should follow the following format and must have a header line.
+This file should correspond to the genotype file. For example, if each animal has ten genotypes then the map file should have eleven lines (header included).
+Example of an acceptable map file by the program:
+snp_name chr location
+SNP_1 1 7762
+SNP_2 1 9078
+SNP_3 1 10325
+SNP_4 1 11103
+SNP_5 2 1150
+SNP_6 2 1167
+SNP_7 2 1204
+SNP_8 3 15665
+SNP_9 3 16049
+SNP_10 3 16506
