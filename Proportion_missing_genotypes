@@ -1,0 +1,3 @@
+The choice of missing proportion is left for the user to decide 
+For example, if you would like to keep individuals who have more than 95% complete genotypes or less than 5% missing
+genotypes, then use 0.05 as the value when prompted by the program 
